@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">📫 Connect with me</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
@@ -77,4 +77,4 @@
 
 ###
 
-<h2 align="center">⭐ "Code with logic, design with purpose." ⭐</h2>
+<h2 align="center">"Code with logic, design with purpose."</h2>
