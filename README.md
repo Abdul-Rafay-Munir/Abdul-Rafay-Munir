@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating bugs since <strong>2021</strong><br>
+✨ Creating bugs since <strong>2023</strong><br>
 📚 I'm currently learning <strong>React.js</strong> and exploring <strong>full-stack web development</strong><br>
 🎯 Goals: To become a professional <strong>Web Developer</strong> and contribute to modern, user-friendly web applications<br>
 🎲 Fun fact: I enjoy turning creative ideas into interactive designs and debugging them late at night ☕
@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/abdul-rafay-munir-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:abdulrafaymunir.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://github.com/Abdul-Rafay-Munir" target="_blank">
