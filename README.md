@@ -52,9 +52,10 @@ Lahore, Pakistan
 ## Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rafay-munir-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulrafaymunir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Abdul-Rafay-Munir"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Abdul-Rafay-Munir)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/abdul-rafay-munir-dev/)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:abdulrafaymunir.dev@gmail.com)
+[![Portfolio](https://skillicons.dev/icons?i=react&theme=light)](https://your-portfolio-link.com)
 </p>
 
 ---
