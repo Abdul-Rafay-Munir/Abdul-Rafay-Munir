@@ -19,7 +19,7 @@ Lahore, Pakistan
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react)](https://skillicons.dev)
 
 ### Other Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=mysql,python,wordpress,git&github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,python,wordpress,git,github)](https://skillicons.dev)
 
 ---
 
@@ -55,7 +55,7 @@ Lahore, Pakistan
   <a href="https://www.linkedin.com/in/abdul-rafay-munir-dev/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https:mailto:abdulrafaymunir.dev@gmail.com" target="blank">
+  <a href="mailto:abdulrafaymunir.dev@gmail.com" target="blank">
     <img src="https://skillicons.dev/icons?i=email" alt="Instagram" />
   </a>
   <a href="https://github.com/Abdul-Rafay-Munir" target="blank">
