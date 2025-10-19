@@ -56,7 +56,7 @@ Lahore, Pakistan
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:abdulrafaymunir.dev@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=email" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Instagram" />
   </a>
   <a href="https://github.com/Abdul-Rafay-Munir" target="blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Instagram" />
