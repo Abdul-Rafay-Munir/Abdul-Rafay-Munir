@@ -52,10 +52,15 @@ Lahore, Pakistan
 ## Let's Connect  
 
 <p align="center">
-[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://skillicons.dev)(https://github.com/Abdul-Rafay-Munir)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)(https://www.linkedin.com/in/abdul-rafay-munir-dev/)
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)(mailto:abdulrafaymunir.dev@gmail.com)
-[![Portfolio](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)(https://your-portfolio-link.com)
+  <a href="https://www.linkedin.com/in/abdul-rafay-munir-dev/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https:mailto:abdulrafaymunir.dev@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=email" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Abdul-Rafay-Munir" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="Instagram" />
+  </a>
 </p>
 
 ---
