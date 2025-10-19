@@ -35,10 +35,10 @@
 ### 🧑‍🍳 [RecipeGenie – AI Recipe Assistant](https://recipe-genie-sand.vercel.app/)  
 > Generate creative recipes using AI based on the ingredients you have!  
 
-### 🎲 [Tenzies – Interactive Dice Game](#)  
+### 🎲 [Tenzies – Interactive Dice Game](https://tenzies-game-2025.vercel.app/)  
 > A fun and fast-paced dice game built with React.js.  
 
-### 🔤 [Hangman Pro – Interactive Word Guessing Game](#)  
+### 🔤 [Hangman Pro – Interactive Word Guessing Game](https://hangman-pro-sigma.vercel.app/)  
 > A modern twist on the classic Hangman game with engaging UI and animations.  
 
 ---
