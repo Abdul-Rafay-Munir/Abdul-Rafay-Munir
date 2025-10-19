@@ -1,28 +1,29 @@
 # 👋 Hi, I'm Abdul Rafay Munir  
 
-### 💻 Frontend Developer passionate about creating modern and responsive web applications.  
-📍 Lahore, Pakistan  
+### Frontend Developer passionate about creating modern and responsive web applications.  
+Lahore, Pakistan  
 
 ---
 
-## 🧠 About Me  
-- 🌐 I specialize in building **modern, user-friendly, and responsive web apps**.  
-- 💡 I enjoy **turning ideas into interactive experiences** using the latest frontend technologies.  
-- 💬 Ask me about **React.js** and **Tailwind CSS**.  
-- ⚡ Fun fact: I love exploring new web technologies and building cool side projects!  
+## About Me  
+- I specialize in building **modern, user-friendly, and responsive web apps**.  
+- I enjoy **turning ideas into interactive experiences** using the latest frontend technologies.  
+- Ask me about **React.js** and **Tailwind CSS**.  
+- Fun fact: I love exploring new web technologies and building cool side projects!  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
-### 💻 Languages & Frameworks  
+### 💻 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,figma&theme=light)](https://skillicons.dev)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Other Tools & Technologies  
+### Other Tools & Technologies  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -30,20 +31,20 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
-### 🧑‍🍳 [RecipeGenie – AI Recipe Assistant](https://recipe-genie-sand.vercel.app/)  
+### [RecipeGenie – AI Recipe Assistant](https://recipe-genie-sand.vercel.app/)  
 > Generate creative recipes using AI based on the ingredients you have!  
 
-### 🎲 [Tenzies – Interactive Dice Game](https://tenzies-game-2025.vercel.app/)  
+### [Tenzies – Interactive Dice Game](https://tenzies-game-2025.vercel.app/)  
 > A fun and fast-paced dice game built with React.js.  
 
-### 🔤 [Hangman Pro – Interactive Word Guessing Game](https://hangman-pro-sigma.vercel.app/)  
+### [Hangman Pro – Interactive Word Guessing Game](https://hangman-pro-sigma.vercel.app/)  
 > A modern twist on the classic Hangman game with engaging UI and animations.  
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
@@ -56,7 +57,7 @@
 
 ---
 
-## 🤝 Let's Connect  
+## Let's Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rafay-munir-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -66,5 +67,5 @@
 
 ---
 
-⭐ **"Strive to build things that make a difference — one line of code at a time."**
+**"Strive to build things that make a difference — one line of code at a time."**
 
