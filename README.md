@@ -62,7 +62,7 @@ Lahore, Pakistan
     <img src="https://skillicons.dev/icons?i=github" alt="Instagram" />
   </a>
   <a href="https://abdul-rafay-munir.vercel.app/" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" width="48" height="48"/>
+      <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
