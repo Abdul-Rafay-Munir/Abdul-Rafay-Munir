@@ -60,7 +60,7 @@ Lahore, Pakistan
   <a href="https://github.com/Abdul-Rafay-Munir" target="blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Instagram" />
   </a>
-  <a href="https://abdul-rafay-munir.vercel.app/" target="blank">
+  <a href="https://abdulrafaymunir.vercel.app/" target="blank">
       <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
