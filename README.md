@@ -61,7 +61,7 @@ Lahore, Pakistan
     <img src="https://skillicons.dev/icons?i=github" alt="Instagram" />
   </a>
   <a href="https://abdulrafaymunir.vercel.app/" target="blank">
-      <img src="https://skillicons.dev/icons?i=vercel" />
+      <img src="https://skillicons.dev/icons?i=vite" />
   </a>
 </p>
 
