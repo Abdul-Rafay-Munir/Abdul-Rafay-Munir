@@ -51,7 +51,7 @@ Lahore, Pakistan
 ## Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rafay-munir-dev/" target="blank">
+  <a href="https://www.linkedin.com/in/abdul-rafay-munir/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:abdulrafaymunir.dev@gmail.com" target="blank">
