@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%7C+React+Enthusiast;Computer+Science+Student+%40+Superior+University" alt="Typing SVG" />
 </div>
 
-### Frontend Developer passionate about creating modern and responsive web applications.  
-Lahore, Pakistan  
-
 ---
 
 ## About Me  
