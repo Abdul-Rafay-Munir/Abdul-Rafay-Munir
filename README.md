@@ -44,8 +44,7 @@ Lahore, Pakistan
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-proxy.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight
-" height="165" />
+  <img src="https://github-readme-stats-proxy.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
