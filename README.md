@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Abdul Rafay Munir  
+# 👋 Hi, I'm Abdul Rafay Munir
+
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;Computer Science Student" alt="Typing SVG" />
+</div>
 
 ### Frontend Developer passionate about creating modern and responsive web applications.  
 Lahore, Pakistan  
