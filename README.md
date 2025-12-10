@@ -45,6 +45,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&hide_border=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdul-Rafay-Munir&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
