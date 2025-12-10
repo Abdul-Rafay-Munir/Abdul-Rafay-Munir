@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Rafay Munir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Fullstack+Developer+%7C+React+Enthusiast;Computer+Science+Student+%40+Superior+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%7C+React+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
 </div>
 
 ---
@@ -39,17 +39,13 @@
 
 ## GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-proxy.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" height="165" />
-</p>
+<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&hide_border=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&hide_border=true&theme=tokyonight)
+
+</div>
 
 ---
 
