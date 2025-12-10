@@ -46,6 +46,10 @@
 <p align="center">
   <img src="https://github-readme-stats-proxy.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" height="165" />
 </p>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrafaymunir&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafaymunir&layout=compact&hide_border=true&theme=tokyonight)
 
 ---
 
