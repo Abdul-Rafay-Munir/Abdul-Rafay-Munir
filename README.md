@@ -43,7 +43,7 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight')
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdul-Rafay-Munir&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
