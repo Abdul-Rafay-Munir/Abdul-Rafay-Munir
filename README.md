@@ -40,12 +40,8 @@
 ## GitHub Stats 
 
 <div align="center">
-  <a href="https://github.com/Abdul-Rafay-Munir/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Abdul-Rafay-Munir/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
-  </a>
+  <img height=200 width=320 src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
+  <img height=200 width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
 </div>
 
 ---
