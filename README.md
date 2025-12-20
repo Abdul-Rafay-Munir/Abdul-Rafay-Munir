@@ -41,10 +41,9 @@
 
 <div align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir)](https://github.com/Abdul-Rafay-Munir/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdul-Rafay-Munir&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
