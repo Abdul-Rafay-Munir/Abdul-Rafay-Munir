@@ -40,8 +40,8 @@
 ## GitHub Stats 
 
 <div align="center">
-  <img height=200 width=320 src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
-  <img height=200 width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
 </div>
 
 ---
