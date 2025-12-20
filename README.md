@@ -39,21 +39,13 @@
 
 ## GitHub Stats  
 
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdul-Rafay-Munir&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Abdul-Rafay-Munir/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Abdul-Rafay-Munir/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
 </a>
+
 ---
 
 ## Let's Connect  
