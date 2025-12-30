@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdul Rafay Munir
 
 <div align="center">
-  [![Typing SVG]("https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Enthusiast;Computer+Science+Student")]
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Enthusiast;Computer+Science+Student)]
 </div>
 
 ---
