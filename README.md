@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Abdul Rafay Munir
 
-<div align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Enthusiast;Computer+Science+Student)]
-</div>
-
 ---
 
 ## About Me  
@@ -53,10 +50,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:abdulrafaymunir.dev@gmail.com" target="blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://github.com/Abdul-Rafay-Munir" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=github" alt="Github" />
   </a>
   <a href="https://abdulrafaymunir.vercel.app/" target="blank">
       <img src="https://skillicons.dev/icons?i=vite" />
@@ -66,29 +63,3 @@
 ---
 
 **"Strive to build things that make a difference — one line of code at a time."**
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img align="left" alt="Portfolio" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-  </a>
-
-  <a href="mailto:your.email@example.com">
-    <img align="left" alt="Email" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-  </a>
-</p>
-
-<br />
