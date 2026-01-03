@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,react,nodejs,express,python)](https://skillicons.dev)
 
 ### Other Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=mysql,wordpress,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,wordpress,git,github)](https://skillicons.dev)
 
 ---
 
