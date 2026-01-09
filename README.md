@@ -64,8 +64,8 @@
 ## GitHub Stats 
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -74,16 +74,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rafay-munir/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height=25 alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:abdulrafaymunir.dev@gmail.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height=25 alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://github.com/Abdul-Rafay-Munir" target="blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height=25 alt="github logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
   </a>
   <a href="https://abdulrafaymunir.vercel.app/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height=25 alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </p>
 
