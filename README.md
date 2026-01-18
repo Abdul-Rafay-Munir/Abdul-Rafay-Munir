@@ -6,11 +6,14 @@
 
 ---
 
-## About Me  
-- I specialize in building **modern, user-friendly, and responsive web apps**.  
-- I enjoy **turning ideas into interactive experiences** using the latest frontend technologies.  
-- Ask me about **React.js** and **Tailwind CSS**.  
-- Fun fact: I love exploring new web technologies and building cool side projects!  
+## 👨‍💻 About Me
+
+I am a Computer Science student passionate about building scalable web applications. I started my journey with a strong foundation in frontend design and WordPress, and I have since evolved into a **Full Stack MERN Developer**. 
+
+- 🔭 I’m currently working on **building full-stack applications with React & Node.js**.
+- 🌱 I’m currently learning **Advanced Backend Architecture and System Design**.
+- 💼 I have experience as a **WordPress Developer Intern**.
+- ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be fixed. 
 
 ---
 
