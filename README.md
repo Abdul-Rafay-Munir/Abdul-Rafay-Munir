@@ -17,9 +17,8 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ---
 
-## Tech Stack  
+## 🛠️ Technologies & Tools
 
-### Languages & Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
@@ -36,10 +35,7 @@ I am a Computer Science student passionate about building scalable web applicati
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-</div>
-
-### Other Tools & Technologies
-<div align="center">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
@@ -68,7 +64,7 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ---
 
-## GitHub Stats 
+## 📊 GitHub Stats 
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=transparent" />
