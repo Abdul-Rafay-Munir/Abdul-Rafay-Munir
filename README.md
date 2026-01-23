@@ -20,7 +20,7 @@ I am a Computer Science student passionate about building scalable web applicati
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=html" alt="html logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
@@ -44,7 +44,7 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ---
 
-## Featured Projects  
+## 🚀 Featured Projects
 
 ### [RecipeGenie – AI Recipe Assistant](https://recipe-genie-sand.vercel.app/)  
 > Generate creative recipes using AI based on the ingredients you have!  
@@ -66,7 +66,7 @@ I am a Computer Science student passionate about building scalable web applicati
 
 ---
 
-## Let's Connect  
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rafay-munir/" target="blank">
