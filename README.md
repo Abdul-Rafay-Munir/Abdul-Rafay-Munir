@@ -1,74 +1,7 @@
-# 👋 Hi, I'm Abdul Rafay Munir
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Enthusiast;Computer+Science+Student" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a Computer Science student passionate about building scalable web applications. I started my journey with a strong foundation in frontend design and WordPress, and I have since evolved into a **Full Stack MERN Developer**. 
-
-- 🔭 I’m currently working on **building full-stack applications with React & Node.js**.
-- 🌱 I’m currently learning **Advanced Backend Architecture and System Design**.
-- 💼 I have experience as a **WordPress Developer Intern**.
-- ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be fixed. 
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="html logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
+  <h1>Hi there, I'm Abdul Rafay Munir! 👋</h1>
+  <h3>Full Stack Web Developer (MERN) | CS Student @ Superior University</h3>
   
-  <br />
-
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  
-  <br />
-
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### [RecipeGenie – AI Recipe Assistant](https://recipe-genie-sand.vercel.app/)  
-> Generate creative recipes using AI based on the ingredients you have!  
-
-### [Tenzies – Interactive Dice Game](https://tenzies-game-2025.vercel.app/)  
-> A fun and fast-paced dice game built with React.js.  
-
-### [Hangman Pro – Interactive Word Guessing Game](https://hangman-pro-sigma.vercel.app/)  
-> A modern twist on the classic Hangman game with engaging UI and animations.  
-
----
-
-## 📊 GitHub Stats 
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=transparent" />
-</div>
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
   <a href="https://www.linkedin.com/in/abdul-rafay-munir/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -81,8 +14,62 @@ I am a Computer Science student passionate about building scalable web applicati
   <a href="https://abdulrafaymunir.vercel.app/" target="blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
-</p>
+</div>
+
+<br />
+
+## 👨‍💻 About Me
+
+I am a Computer Science student passionate about building scalable web applications. I started my journey with a strong foundation in frontend design and WordPress, and I have since evolved into a **Full Stack MERN Developer**. 
+
+- 🔭 I’m currently working on **building full-stack applications with React & Node.js**.
+- 🌱 I’m currently learning **Advanced Backend Architecture and System Design**.
+- 💼 I have experience as a **WordPress Developer Intern**.
+- ⚡ Fun fact: I believe every bug is just an undocumented feature waiting to be fixed.
 
 ---
 
-**"Strive to build things that make a difference — one line of code at a time."**
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rafay-Munir&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rafay-Munir&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p><i>Let's connect and build something amazing together!</i></p>
+</div>
