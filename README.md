@@ -25,11 +25,17 @@ I am a Computer Science student passionate about building scalable web applicati
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
+  
+  <br />
+
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  
+  <br />
+
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
